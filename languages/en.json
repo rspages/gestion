@@ -1,0 +1,19 @@
+{
+    "HOME": "Home",
+    "SALES_PURCHASES": "Sales/Purchases",
+    "ORDERS": "Orders",
+    "ENTITIES": "Entities",
+    "CLIENTS": "Clients",
+    "PROVIDERS": "Providers",
+    "CREDITORS": "Creditors",
+    "EMPLOYEES": "Employees",
+    "SELLERS": "Sellers",
+    "SUB_DISTRIBUTORS": "SubDistributors",
+    "PRODUCTS_SERVICES": "ProductsyServices",
+    "PODUCTS": "Products",
+    "PRICE_LISTS": "Pricelist",
+    "CATEGORY_PRODUCTS": "Categoryproducts",
+    "USERS": "Users",
+    "ROLES_CONFIG": "Rolesconfig",
+    "COMPLEX": "Field name can't be blank"
+}
